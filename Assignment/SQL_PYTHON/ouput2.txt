@@ -1,0 +1,2 @@
+['SINHVIEN:tensv,PK.masv,nam,khoa,DT.skill', 'MONHOC:tenmh,PK.mamh,sotc,khoapt', 'LOPHOC:PK.malh,mamh,hocky,nam,giangvien,FK.masv', 'GVCN:PK.magv,tuoi,FK.malh', 'SINHVIEN_MONHOC:PK.FK.masv,PK.FK.mamh', 'Table_skill:PK.FK.masv,PK.skill']
+['1-n:SINHVIEN-LOPHOC', '1-n:SINHVIEN-SINHVIEN_MONHOC', '1-n:MONHOC-SINHVIEN_MONHOC', '1-1:LOPHOC-GVCN']

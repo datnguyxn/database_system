@@ -1,0 +1,3 @@
+A,B,C,D,E,G
+B->EC;CD->AB;AC->BD;BC->AE;C->AD
+A,B

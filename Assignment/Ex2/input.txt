@@ -1,0 +1,2 @@
+A,B,C,D,E,G,H,I
+A B -> C, C ->A, B C -> D, D-> E G, C G ->B D, A C D -> B, C D -> A G, I -> H, G H -> A I

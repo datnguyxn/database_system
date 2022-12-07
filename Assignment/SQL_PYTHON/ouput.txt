@@ -1,0 +1,2 @@
+ABCDE
+['GB', 'GAB', 'GC', 'GAC', 'GBC', 'GABC', 'GBD', 'GABD', 'GCD', 'GACD', 'GBCD', 'GABCD']
